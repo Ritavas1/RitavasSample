@@ -1,6 +1,5 @@
-#WANDERER
-
-##Travel Without Limits
+# WANDERER
+## Travel Without Limits
 <hr><br>
 
 
