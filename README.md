@@ -1,5 +1,6 @@
 # WANDERER
 <br>
+
 ### How does WANDERER helps?
 
 This website is of great help to people who are interested in travelling to remote places. It helps tourists to book hotels in new places where tourism is not so much developed and provides an overview about the surroundings of that spot.
