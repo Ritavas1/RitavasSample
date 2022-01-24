@@ -16,4 +16,4 @@ We welcome all kinds of ideas which will help to develop this website into a mor
 <br><hr>
 
 ### Links
-<a href="Sample.html">Wanderer.com</a>
+<a href="Sample">Wanderer.com</a>
