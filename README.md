@@ -18,4 +18,4 @@ We welcome all kinds of ideas which will help to develop this website into a mor
 <hr>
 
 ### Links
-<a href="https://ritavas1.github.io/RitavasSample/">Wanderer.com</a>
+Site : https://ritavas1.github.io/RitavasSample/
