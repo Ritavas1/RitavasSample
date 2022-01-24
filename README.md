@@ -16,4 +16,4 @@ We welcome all kinds of ideas which will help to develop this website into a mor
 <br><hr>
 
 ### Links
-<a href="Sample.html">Wanderer.com</a>
+<a href="https://github.com/Ritavas1/RitavasSample/blob/main/Sample.html">Wanderer.com</a>
