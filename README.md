@@ -18,4 +18,4 @@ We welcome all kinds of ideas which will help to develop this website into a mor
 <hr>
 
 ### Links
-Site : https://ritavas1.github.io/RitavasSample/
+Site : <a href="https://ritavas1.github.io/RitavasSample/Sample.html">Click Here</a>
