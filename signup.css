@@ -1,0 +1,53 @@
+body{
+    background:url("bk.jpg");
+    background-size: 100%;
+    background-repeat:no-repeat;
+    background-attachment: scroll;
+    padding: 2% 20% 2% 20%;
+}
+
+.transparentbox{
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+    padding: 1%;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ff7900;
+    font-size: 200%;
+}
+
+.start{
+    padding: 2%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+input{
+    border-radius: 2%;
+    padding: 1%;
+    cursor: pointer;
+    width: 50%;
+}
+
+input[id="first name"],
+input[id="last name"]{
+    width: 30%;
+}
+
+input[type="submit"]{
+    padding: 1%;
+    width: 80%;
+    background-color: rgb(177, 177, 207);
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 120%;
+}
+
+.end{
+    text-align: center;
+    padding: 5% 2% 2% 2%;
+}
